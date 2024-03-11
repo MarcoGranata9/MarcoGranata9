@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">My Languages</h3>
+<h3 align="center">My Skills</h3>
 
 ###
 
